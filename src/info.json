@@ -1,0 +1,11 @@
+{
+  "name": "pbgraphs.ts",
+  "version": "0.1.14",
+  "organization namespace": "com.progsbase.libraries",
+  "scientific namespace": "computerscience.datastructures.basic",
+  "imports": [
+    ["","no.inductive.libraries","DirectedGraphs","0.1.14"]
+  ],
+  "development imports": [],
+  "ownerCustomerId": "Inductive AS"
+}
